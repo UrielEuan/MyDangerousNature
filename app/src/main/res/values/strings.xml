@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dangerous Nature</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+    <string name="username_card">Uriel Euan</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">10 Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_profile">Yo</string>
+    <string name="tab_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleimagedetail">¿Qué es \\\"Dangerous Nature\\\"?</string>
+    <string name="lorem">Uno de los tópicos más difundidos hoy día es el carácter benéfico de los fenómenos naturales, como si lo natural no pudiera ser peligroso y dañino, como si la naturaleza fuese amiga del hombre. Sin embargo la naturaleza está plagada de venenos y de amenazas y la humanidad, antes de mantener las idílicas relaciones actuales con la naturaleza, siempre había desconfiado de ella y, en consecuencia, la había rehuido. Las poblaciones eran conscientes de los peligros de la naturaleza, de sus efectos destructivos y procuraban guarecerse de las calamidades naturales.  Durante siglos la farmacia obtuvo sus productos de la naturaleza, de los reinos animal, mineral y vegetal. Incluso los vegetales podían ser perniciosos y los farmacólogos grecorromanos hicieron el inventario de las plantas tóxicas, no sólo de las medicinales. Algunos de los más peligrosos principios activos conocidos son naturales (belladona, curare, opio, cocaína, nicotina, venenos de serpiente), visto lo cual no deja de ser un tanto cándida la identificación de la naturaleza con la protección y el cuidado de las personas.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="tomar_foto">TOMAR FOTO</string>
+</resources>
